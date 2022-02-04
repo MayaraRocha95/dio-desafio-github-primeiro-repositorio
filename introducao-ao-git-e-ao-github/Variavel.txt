@@ -1,0 +1,14 @@
+Uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão. Enquanto as variáveis só "existem" em tempo de execução, elas são associadas a "nomes", chamados identificadores, durante o tempo de desenvolvimento.
+
+
+Variável-->Incerto, mutável, possuiu variações, instável pode possuir qualquer um dos valores de determinado conjunto de valores -->definir a variavel e identificar seu tipo.
+Regras do Nome da Variável-->Atribuição de um ou mais caracteres,primeira letra, não número!, sem espaços em branco,utilizar as palavras reservadas e caracteres e números.
+
+                 Papeis de uma variável ---Ação; Modificação de estado.
+                 Papeis de uma variável --Controle;Vigiada e controle sobre o codigo.
+                 
+                 
+                 
+                 
+                 
+ Constante---->tudo o que é fixo ou estável.

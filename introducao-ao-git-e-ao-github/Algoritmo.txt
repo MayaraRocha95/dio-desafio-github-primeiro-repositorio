@@ -1,0 +1,21 @@
+Algoritmo é simplesmente uma "receita" para executarmos uma tarefa ou resolver algum problema. ... Se seguirmos uma receita de bolo corretamente, conseguiremos fazer o bolo. A computação utiliza muito esse recurso, então se você pretende aprender programação, obviamente deve saber o que é algoritmo.
+
+
+Os passos necessários para a construção de um algoritmo são: ler atentamente o enunciado do problema, compreendendo-o e destacando os pontos mais importantes; definir os dados de entrada, ou seja, quais dados serão fornecidos; ... elaborar o algoritmo; testar o algoritmo realizando simulações.
+
+
+
+
+                         Passo a Passo:
+               
+Pontos + importantes-->compreensão de problema.
+Dados fornecidos e cenário---->Definição de daddos de entrada.
+Calculos e restrição---->Definir processamento.
+Após o processamento--->Definir dados de saída.
+Construção e refinamento de Algoritmo--->Utilizar metodos de construção.
+Narrativa,Fluxograma e Pseudocodigo---->Teste e Diagnóstico. 
+
+
+---------------------------------------------------------------------------
+
+  

@@ -1,0 +1,48 @@
+o gitbash é um terminal extendido pára otimizar o uso do git.
+
+git é um software VCS local que permite aos desenvolvedores salvar snapshots de seus projetos ao longo do tempo. ... 
+
+
+GitHub é uma plataforma baseada na web que incorpora os recursos de controle de versões do gitHub para que possam ser usados colaborativamente.
+
+
+Sempre que desejarmos controlar a versão de algum arquivo, temos que informar que queremos rastreá-lo no repositório. E a cada mudança que queremos de fato efetivar, devemos armazenar as alterações nesse repositório.
+
+
+
+As alterações que são feitas nos mesmos arquivos são mescladas de forma automática sempre que possível.
+
+
+Com o Git, você é capaz de gravar mudanças locais em seu código utilizando uma ferramenta de linha de comando, chamada Git Shell (O Git também pode ser utilizado por outras ferramentas de linha de comando).
+
+Na linha de comando permite-se inserir comandos para visualizar, alterar  e gerenciar seus arquivos e pastas em um terminal bem simples.
+
+Ao utilizar o Git, você fará alterações em seus arquivos de código como faria normalmente durante o processo de desenvolvimento.
+
+
+
+    pwd – que verifica onde você está no sistema de arquivos atual.
+    ls – lista arquivos no diretório atual.
+    cd [nome-do-diretório] – move-se para o nome ou caminho do diretório fornecido.
+    mkdir [nome-do-diretório] – cria um novo diretório com o nome escolhido.
+
+
+
+
+Quando você tem o desejo de utilizar o Git para um projeto, o primeiro comando que você deve executar é o git init, com o nome do seu projeto:
+
+git init [nome do projeto]
+
+Fazendo alterações
+
+git add [arquivo] ou git add ;
+Depois de fazer as alterações em seus arquivos e escolher por capturá-los para o histórico de versões do seu projeto, você deve colocá-los na área de preparação com o git add, pelo nome do arquivo ou incluindo todos os arquivos na sua pasta atual utilizando o git add *.
+
+
+
+git commit -m “[message]”;
+Para finalmente fazer o commit das alterações feitas nos seus arquivos da área de preparação para o histórico de versões do seu repositório, você precisa executar o git commit com uma mensagem descritiva de quais alterações foram realizadas.
+
+git status;
+Se, a qualquer instante, você desejar visualizar um resumo dos arquivos que você modificou e ainda não confirmou, simplesmente execute o git status no repositório do seu projeto na linha de comando do Git Shell.
+

@@ -1,0 +1,19 @@
+
+                          Lógica soluciona problemas;forma de raciocinio, organização e planejamento das instruções assertivas em algoritmo a fim de viabilizar a implantação de um programa.
+
+
+
+
+
+
+Tecnica Linear: Ordenação de elementos por uma única propriedade...recursos limitados.EX: linear seria como pular os passo a passo, como acordar e tomar café, ao invez de acordar, escovar os dentes, preparar o café da manhã...
+
+Tecnica Estrutura: Organização, disposeção e ordem os elementos essenciais que compoẽ um corpo.EX:aqui já tem uma ordem e sequência de ações.
+
+Tecnica Modular: Controla um conjunto de regras, partes indepedentes, colocados de modo separado e são controlados.
+
+    DADOS DE ENTRADA--->PROCESSO DE TRANSFORMAÇÃO ---->DADOS DE SAÍDA
+  METAS:simplificação, separar o problema e verificar o módulo.
+Ex:um modulo para acordar outro para preparar o café da manhã.  
+
+

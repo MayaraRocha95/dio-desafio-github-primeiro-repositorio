@@ -1,0 +1,65 @@
+Qual foi o primeiro domínio criado?
+ Symbolics.com em 1985,por um fabriacante de computadores em Massachusetts, EUA. Tornou-se pago os sites em 1995.
+ 
+E o primeiro blog?
+   Em 1994,por um brasileiro com o nome de "Open Diary".
+   
+Qual a primeira compra feita pela internet?
+  primeiro produto foi um CD do cantor Sting, em 11 de agosto de 1994.
+  
+  
+Qual o site mais antigo em atividade?
+  Em 1º de janeiro de 1985, a Nordunet, uma especie de agência internacional que conecta as redes nacionais de pesquisa e de educação dos países nordicos criou o NORDU.NET, sediada na Dinamarca segue ativa.
+  
+  
+  -------------------------------------------------------------------------------
+  TCP/IP; significa protocolo de controle de transmissão/protocolo da internet (Transmission Control Protocol/Internet Protocol). TCP/IP é um conjunto de regras padronizadas que permitem que os computadores se comuniquem em uma rede como a internet.    
+   
+   
+   Aplicação
+
+A camada de aplicação é o topo da arquitetura TCP/IP, tratada de forma monolítica, onde são realizadas a maior parte das requisições para execução de tarefas na rede. Ela faz a comunicação entre os programas e os protocolos de transporte e é responsável por tudo que está relacionado aos serviços de comunicação que visam a interação junto ao usuário.
+
+Dentro da camada de aplicação são utilizados alguns dos seguintes protocolos:
+
+ 
+
+    TELNET (Terminal Virtual);
+    FTP (File Transfer Protocol);
+    SMTP (Send Mail Transfer Protocol);
+    DNS (Domain Name System);
+    HTTP (Hypertext Transfer Protocol).
+
+
+Transporte
+
+A camada de transporte é a segunda camada de cima para baixo na hierarquização da arquitetura TCP/IP, e corresponde igualmente à mesma camada no modelo OSI. Neste nível são executadas ações relacionadas à confiabilidade e integridade dos dados por meio de funções como o controle de fluxo, controle de erro, sequenciação e multiplexação de mensagens.
+
+Os protocolos definidos para esta camada são o UDP (User Datagram Protocol) e o TCP (Transmission Control Protocol), com o objetivo de garantir a conversação entre dois hosts.
+
+nternet
+
+A camada de internet, também conhecida como inter-redes, é responsável pela permissão de envio de pacotes por hosts a qualquer rede e pela garantia de que esses dados cheguem ao seu destino final. Equivalente ao que é operacionalizado na camada de rede do modelo OSI, na arquitetura TCP/IP a camada de internet tem como embasamento os protocolos IP (Internet Protocol) e ICMP (Internet Control Message Protocol).
+Interface de rede
+
+Esta é a camada de base da arquitetura TCP/IP, correspondente às camadas de enlace de dados e física do OSI, onde ocorre a conexão básica do host com a rede por meio de algum protocolo capaz de enviar pacotes IP. É por meio desta camada que é possível transmitir dados a outros computadores dentro de uma mesma rede física, além de realizar o envio do datagrama recebido pela camada de internet através de meios físicos.
+
+Para se manter em funcionamento a camada de Interface de rede utiliza como principais protocolos: Ethernet para Redes Locais (LAN – Local Area Network) e PPP (Point-to-Point Protocol) para Redes de Longa Distância (WAN – Wide Area Network).
+
+
+----------------------------------------------------------------------------------------------------
+UDP ou TCP?
+
+É certo que não existe um protocolo certo ou errado, nem um melhor ou pior que outro por essência. O que existe são situações diferentes, e essa é a chave para trabalhar com aplicações que se comunicam com diferentes máquinas.
+
+Nesse post, entendemos algumas das diferenças entre os dois principais protocolos da camada de transporte dos modelos da Internet: o UDP e o TCP. Assim, entendemos a importância de ambos os protocolos e quando devemos preferir um ou outro.
+
+Ao final, como resumo, podemos entender que o UDP serve melhor casos em que a integridade constante dos dados não é essencial (é menos importante que a velocidade da comunicação), como em livestreams de vídeos e jogos online.
+
+Por outro lado, o TCP funciona melhor em casos que a confiabilidade do transporte de dados é o foco, como quando trabalhamos com comunicação em texto ou com documentos.
+
+O mais importante, portanto, é entender as diferenças entre os protocolos e, assim, saber qual utilizar em cada caso. Assim, teremos uma aplicação mais funcional!
+
+
+ 
+ 

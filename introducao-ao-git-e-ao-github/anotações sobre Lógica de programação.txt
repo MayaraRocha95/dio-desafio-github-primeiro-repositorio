@@ -1,0 +1,8 @@
+ lógica de programação é onde aplicamos todos os conceitos de algoritmos, a definição do passo a passo e transferimos toda a lógica do algoritmo desenvolvido para uma linguagem de programação.
+
+Em linhas gerais, lógica de programação é todo conjunto de regras e conceitos que precisamos aplicar para criar códigos que serão interpretados e executados por um computador.
+
+Para conseguirmos o objetivo de instruir o computador a fazer alguma coisa, precisamos de uma linguagem de programação, que é um meio estruturado para passar instruções para a máquina.
+
+Para fazer isso, temos à disposição uma gama muito grande de linguagens como: C, Java, PHP, Python, JavaScript, entre outras. Cada uma delas tem suas características, particularidades e cenários de aplicação.
+
