@@ -17,3 +17,4 @@ Tecnica Modular: Controla um conjunto de regras, partes indepedentes, colocados 
 Ex:um modulo para acordar outro para preparar o café da manhã.  
 
 
+

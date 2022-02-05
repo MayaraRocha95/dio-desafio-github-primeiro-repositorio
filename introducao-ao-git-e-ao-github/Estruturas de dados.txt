@@ -55,6 +55,7 @@ A Estrutura Condicional pode ser Simples ou Composta. A Estrutura Condicional Si
                        
                        
                        Estrutura de repetição-->teste lógico(final)numero de repetições.
+                       
     
 
                                           

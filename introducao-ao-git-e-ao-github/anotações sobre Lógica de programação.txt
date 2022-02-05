@@ -6,3 +6,4 @@ Para conseguirmos o objetivo de instruir o computador a fazer alguma coisa, prec
 
 Para fazer isso, temos à disposição uma gama muito grande de linguagens como: C, Java, PHP, Python, JavaScript, entre outras. Cada uma delas tem suas características, particularidades e cenários de aplicação.
 
+

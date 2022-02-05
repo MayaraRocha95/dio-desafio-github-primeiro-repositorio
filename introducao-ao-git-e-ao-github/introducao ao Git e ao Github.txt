@@ -40,6 +40,7 @@ Depois de fazer as alterações em seus arquivos e escolher por capturá-los par
 
 
 
+
 git commit -m “[message]”;
 Para finalmente fazer o commit das alterações feitas nos seus arquivos da área de preparação para o histórico de versões do seu repositório, você precisa executar o git commit com uma mensagem descritiva de quais alterações foram realizadas.
 

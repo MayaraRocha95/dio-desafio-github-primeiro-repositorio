@@ -12,3 +12,6 @@ Regras do Nome da Variável-->Atribuição de um ou mais caracteres,primeira let
                  
                  
  Constante---->tudo o que é fixo ou estável.
+ 
+ 
+ 

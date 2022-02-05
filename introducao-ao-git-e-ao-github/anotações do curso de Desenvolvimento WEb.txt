@@ -61,5 +61,6 @@ Por outro lado, o TCP funciona melhor em casos que a confiabilidade do transport
 O mais importante, portanto, é entender as diferenças entre os protocolos e, assim, saber qual utilizar em cada caso. Assim, teremos uma aplicação mais funcional!
 
 
+
  
  
